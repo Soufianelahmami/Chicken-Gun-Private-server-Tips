@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJK9wcN.webp",
+            "title": "Chicken Gun Private server Tips 1",
+            "text_Content_": "Chicken Gun Private Server has taken the gaming world by storm with its quirky and addictive gameplay. Whether you're a new player or a seasoned veteran, this guide is here to provide you with essential tips and strategies to dominate the arena, level up quickly, and become the ultimate chicken warrior in this unique battle royale experience"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJK9jFp.webp",
+            "title": "Chicken Gun Private server Tips 2",
+            "text_Content_": "Chicken Gun Private Server boasts a variety of maps, each with its own unique challenges and advantages. Take the time to explore these maps in detail to understand their layouts, loot spawn locations, and potential hiding spots"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJK9NSI.webp",
+            "title": "Chicken Gun Private server Tips 3",
+            "text_Content_": "Knowledge of the terrain can give you a significant edge in battles and help you plan your movements strategically"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJK9XPR.webp",
+            "title": "Chicken Gun Private server Tips 4",
+            "text_Content_": "One of the most critical decisions you'll make in Chicken Gun Private Server is selecting your weapon loadout. Each weapon has its strengths and weaknesses, so consider your playstyle when making your choice"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJK9Ewg.webp",
+            "title": "Chicken Gun Private server Tips 5",
+            "text_Content_": " Shotguns are deadly up close, while rifles excel at medium range. Experiment with different combinations to find what suits your gameplay style best"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJK9WMv.webp",
+            "title": "Chicken Gun Private server Tips 6",
+            "text_Content_": "Survival in Chicken Gun Private Server often comes down to quick reflexes and nimble movement. Learn to strafe, jump, and crouch to avoid enemy fire effectively. Dodging can make you a challenging target and give you an advantage in one-on-one encounters"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJK9Gta.webp",
+            "title": "Chicken Gun Private server Tips 7",
+            "text_Content_": "Utilize the various obstacles and structures in the game to your advantage. Hide behind walls, trees, or any available cover to shield yourself from incoming fire. Remember that cover is essential, but don't stay in one place for too long, as camping can make you an easy target"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJK9VoJ.webp",
+            "title": "Chicken Gun Private server Tips 8",
+            "text_Content_": "Looting is a crucial aspect of Chicken Gun Private Server. Collect weapons, health kits, and ammo as you explore the map. Be mindful of your inventory space and prioritize the items you need most. It's also a good idea to share resources with your team to ensure everyone is adequately equipped"
         }
     ]
 }
